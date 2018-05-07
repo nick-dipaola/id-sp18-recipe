@@ -1,0 +1,60 @@
+html {
+  font: 100%/1.15 sans-serif;
+}
+
+img {
+        width: auto;
+        max-width: 100%;
+        vertical-align: middle;
+}
+
+#fig-1 {
+  max-width:60em;
+  margin: auto;
+}
+
+#fig-1 div {
+  border: 1em solid #000;
+}
+
+
+main {
+      font-family: times;
+      color: #000;
+      margin: auto;
+    }
+
+h1 {
+      font-family: sans-serif, monospace, cursive, fantasy;
+      font-family: ;
+      text-align: center;
+      color: #000;
+      /* grayscale: 0123456789abcdef */
+    }
+
+h2 {
+      font-family: helvetica;
+      color:#000;
+      padding-left: 3em;
+    }
+
+body {
+
+      background-color: #ffffff;
+     }
+
+
+ol{
+  max-width: 45em;
+  padding-left: 3em;
+}
+
+ul{
+  padding-left: 3em;
+}
+
+li {
+
+    padding: 0 0 .5em 0;
+
+}
